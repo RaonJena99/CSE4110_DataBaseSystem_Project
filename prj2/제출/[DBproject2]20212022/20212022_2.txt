@@ -1,0 +1,15 @@
+drop table agent;
+drop table agent_market;
+drop table agent_sold;
+drop table buyer;
+drop table buyer_sold;
+drop table market; 
+drop table market_photo;
+drop table market_room;
+drop table photo;
+drop table room;
+drop table seller;
+drop table seller_market;
+drop table seller_sold;
+drop table sold;
+drop table sold_photo;
